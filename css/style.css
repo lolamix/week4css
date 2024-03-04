@@ -1,0 +1,25 @@
+
+
+body {
+    background-color: beige;
+    font-family: "Montserrat", sans-serif;
+}
+
+p {font-family: "Montserrat", sans-serif;}
+
+h2{ color: midnightblue;}
+
+#contact{
+    background-color: whitesmoke;
+    color: royalblue;
+    padding: 4px;
+    margin: 4px;
+    width: 800px;
+    font-weight: bold;
+}
+
+.colorbox {
+    color: rgb(7, 15, 106);
+    width: 900px;
+    
+}
